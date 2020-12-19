@@ -1,0 +1,150 @@
+        body {
+            background-color: #fff;
+            color: #fff;
+            font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+        }
+
+        p {
+            color: #fff;
+            line-height: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 20px;
+            font-family: serif;
+
+        }
+        .size1{
+            font-family: serif;
+            font-size: 110px;
+        }
+        .intro{
+        color: white;
+        font-size: 55px;
+        text-shadow: 1px 1px skyblue;
+        font-family: serif;
+          }
+        h1 {
+            font-family: 'Crete Round', serif;
+            font-weight: bold;
+            color: #fff;
+            font-size: 45px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-weight: 300;
+            color: #fff;
+            font-size: 55px;
+            text-transform: uppercase;
+            text-align: center;
+        }
+        h3 {
+            font-weight: 300;
+            color: #fff;
+            font-size: 20px;
+            text-transform: uppercase;
+            text-align: center;
+            font-family: serif;
+        }
+        a {
+            text-decoration: none;
+            color: #fff;
+        }
+        a:hover {
+            color: #02b8dd;
+        }
+        strong {
+            font-weight: bold;
+        }
+        small {
+            font-size: 13px;
+            color: #777;
+            font-style: italic;
+        }
+        .clear {
+            clear: both;
+        }
+        .wrapper {
+            margin: 0 auto;
+            padding: 0 10px;
+            width: 940px;
+        }
+        header {
+            height: 100px;
+        }
+        header h1 {
+            float: left;
+            margin-top: 20px;
+        }
+        header h1 .color {
+            color: #02b8dd;
+        }
+        header nav {
+            float: right;
+        }
+        header nav ul li {
+            float: left;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        header nav ul li a {
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: bold;
+            display: block;
+            margin-right: 20px;
+        }
+        #hero-image {
+            height: 680px;
+            padding-top: 0px;
+            background: #e8eced url('/img/background.jpg') no-repeat center;
+        }
+        #hero-image h2 {
+            margin: 120px 0 40px 0;
+        }
+        #features ul {
+            margin: 80px 0;
+        }
+        #features ul li {
+            width: 300px;
+            padding-top: 140px;
+            float: left;
+            margin-right: 10px;
+            text-align: center;
+        }
+        footer {
+            padding: 20px 0;
+            height: 100px;
+        }
+
+        textarea{
+            background-color: transparent;
+            width: 400px;
+            height: 200px;
+        }
+
+
+        form, .content {
+          width: 30%;
+          margin: 0px auto;
+          padding: 20px;
+          border: 1px solid #B0C4DE;
+          background: transparent;
+          border-radius: 0px 0px 10px 10px;
+        }
+        .input-group {
+          margin: 10px 0px 10px 0px;
+        }
+        .input-group label {
+          display: block;
+          text-align: left;
+          margin: 3px;
+        }
+        .input-group input {
+          height: 30px;
+          width: 93%;
+          padding: 5px 10px;
+          font-size: 16px;
+          border-radius: 5px;
+          border: 1px solid gray;
+          background-color: transparent;
+        }

@@ -1,0 +1,48 @@
+a{
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+td{
+	border: 3px solid blue;
+	width: 500px;
+	padding-bottom: 110px;
+	background-color: white;
+	padding-top: 45px;
+}
+img{
+border-radius: 50%;
+width: 150px;
+height: 150px;
+transform: rotate(90deg);
+border: 3px solid blue;
+
+}
+.pretot{
+	transform: rotate(360deg);
+}
+.carpo{
+	transform: rotate(360deg);
+}
+	 td:hover{
+				box-shadow:  0 0 10px  orange, 0 0 30px  orange, 0 0 90px  orange, 0 0 140px  red, 0 0 190px  red;
+				background-image: url(/img/hover.gif);
+
+	 		}
+td{
+	background-image: url(/img/background2.jpg);
+	background-repeat: no-repeat;
+	background-size: 325px 640px;
+  }
+
+.bible{
+	 font-size: 20px;
+	 color:lightblue;
+	 }
+.button{
+	color: blue;
+
+}
+	 
+
